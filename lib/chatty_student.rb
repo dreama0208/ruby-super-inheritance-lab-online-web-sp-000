@@ -1,4 +1,4 @@
-class ChattyStudent
+class ChattyStudent < Studnet
 
   def hello
     super
